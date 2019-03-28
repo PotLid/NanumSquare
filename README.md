@@ -9,12 +9,12 @@ Supports Regular(400), Bold(700), Extra Bold(800), Light(300)
 ## How to use
 
 ### CDN (recommended)
-	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/PotLid/NanumSquare@1.0/nanumsquare.css">
+	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/PotLid/NanumSquare/nanumsquare.css">
 	for MIME error (with base url)
-	<link rel="stylesheet" type="text/css" href="/https://cdn.jsdelivr.net/gh/PotLid/NanumSquare@1.0/nanumsquare.css" />
+	<link rel="stylesheet" type="text/css" href="/https://cdn.jsdelivr.net/gh/PotLid/NanumSquare/nanumsquare.css" />
 
 ### import css
-	@import url(https://cdn.jsdelivr.net/gh/PotLid/NanumSquare@1.0/nanumsquare.css);
+	@import url(https://cdn.jsdelivr.net/gh/PotLid/NanumSquare/nanumsquare.css);
 
 ## Usage
 ### in css file
