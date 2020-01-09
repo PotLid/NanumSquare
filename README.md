@@ -11,7 +11,7 @@ Supports Regular(400), Bold(700), Extra Bold(800), Light(300)
 ### CDN (recommended)
 	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/PotLid/NanumSquare/nanumsquare.css">
 	for MIME error (with base url)
-	<link rel="stylesheet" type="text/css" href="/https://cdn.jsdelivr.net/gh/PotLid/NanumSquare/nanumsquare.css" />
+	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/PotLid/NanumSquare/nanumsquare.css" />
 
 ### import css
 	@import url(https://cdn.jsdelivr.net/gh/PotLid/NanumSquare/nanumsquare.css);
